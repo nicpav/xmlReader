@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1301656393 source:/media/Data/nicpav/Work/my_github/xmlReader/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<xmlParser.h>
+
+1301656140 source:/media/Data/nicpav/Work/my_github/xmlReader/src/xmlParser.cpp
+	"xmlParser.h"
+
